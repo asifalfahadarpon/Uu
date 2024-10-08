@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1 ,Sport 18
+http://172.16.29.242:8080/hls/sports18.m3u8
+
+#EXTINF:-1 ,Tsport
+http://172.16.29.242:8080/hls/sjolshahd.m3u8
+
+
+#EXTINF:-1 ,Starsport1
+http://172.16.29.242:8080/hls/ssports1hd.m3u8
+
+
+
+#EXTINF:-1 ,Starsport2
+http://172.16.29.242:8080/hls/ssports2hd.m3u8
+
+
+
+#EXTINF:-1 , SonyTen1
+http://172.16.29.242:8080/hls/sonyten1.m3u8
+
+
+#EXTINF:-1 , SonyTen2
+http://172.16.29.242:8080/hls/sonyten2.m3u8
+
+
+#EXTINF:-1 , Bein2
+http://172.16.29.242:8080/hls/bein2.m3u8
