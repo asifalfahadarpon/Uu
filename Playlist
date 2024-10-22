@@ -14,6 +14,13 @@ http://172.16.29.242:8080/hls/ssports1hd.m3u8
 #EXTINF:-1 ,Starsport2 (FTP)
 http://172.16.29.242:8080/hls/ssports2hd.m3u8
 
+#EXTINF:-1 ,Starsport2
+https://hex-op.tiiny.io/crichd.php?id=skyscric
+
+
+#EXTINF:-1 , Fan Code (Live)
+https://a39aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/l8j2xgwt32/out/v1/fe72171ab2684ab8b9ee3e2ffcc9cff2/cenc_audio_8_0_22408811.mp4?m=1684490437
+
 
 
 #EXTINF:-1 , SonyTen1 (FTP)
@@ -76,6 +83,32 @@ http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 
 #EXTINF:-1 ,Ten Sports HD
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+
+
+
+#EXTINF:-1 , T Sport
+https://cdn.livestreambd.com/TSports/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 ,  Willow Extra
+https://hex-op.tiiny.io/crichd.php?id=willowextra
+
+EXTINF:-1 ,  Super Sports Crickrt
+https://hex-op.tiiny.io/crichd.php?id=supercricket
+
+
+EXTINF:-1 ,  Willow
+https://hex-op.tiiny.io/crichd.php?id=willowusa
+
+
+
+EXTINF:-1 ,  TNT Sports 2
+https://hex-op.tiiny.io/crichd.php?id=bbtsp2
+
+
+
+
 
 
 
