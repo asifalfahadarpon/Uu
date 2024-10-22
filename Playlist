@@ -73,15 +73,15 @@ http://103.124.251.164:28015/play/a03b/index.m3u8
 http://103.124.251.164:28015/play/a03i/index.m3u8
 
 #EXTINF:-1 ,  Super Sports Crickrt
-https://hex-op.tiiny.io/crichd.php?id=supercricket
+https://rr2---sn-npoe23nsr.creativehub.sbs/SuperSport_Cricket_Live_TV/tracks-v1a1/mono.m3u8?active=337d183f33d20f0029b3a4cbb9d672e57e33dec9547f515dc2799699ea405691&googlekey=03aaebfd545233646a6d07ea70d446b96abb3b1f7c9c2afb5d9fb71b9fe7e81a&keyhash=337d183f33d20f0029b3a4cbb9d672e57e33dec9547f515dc2799699ea405691
 
 
 #EXTINF:-1 Star Sports Select 2 HD
 http://103.124.251.164:28015/play/a02x/index.m3u8
 
 
-#EXTINF:-1 Geo Sports
-http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
+#EXTINF:-1  TNT Sport 3
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/dfca31f7-9f32-405d-96f8-37cae750c311/2.m3u8
 
 
 
@@ -117,7 +117,7 @@ http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 
 
 EXTINF:-1 ,  Willow
-https://hex-op.tiiny.io/crichd.php?id=willowusa
+https://rr2---sn-npoe23nsr.creativehub.sbs/Willow_Cricket_Live_TV/tracks-v1a1/mono.m3u8?active=337d183f33d20f0029b3a4cbb9d672e57e33dec9547f515dc2799699ea405691&googlekey=93fd7b4ed17ab243f4e2fa74b87a5fead110161dbf07423fc351ec353f71d62c&keyhash=337d183f33d20f0029b3a4cbb9d672e57e33dec9547f515dc2799699ea405691
 
 
 #EXTINF:-1 Ten Sports HD
@@ -126,12 +126,12 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
 
 #EXTINF:-1 T Sport
-https://cdn.livestreambd.com/TSports/tracks-v1a1/mono.m3u8
+https://fredflix.xyz/Tsports/bz.php?id=https://live-cdn.tsports.com/live-02/master_1080.m3u8
 
 
 
 #EXTINF:-1 , Willow Extra
-https://hex-op.tiiny.io/crichd.php?id=willowextra
+https://rr2---sn-npoe23nsr.creativehub.sbs/Willow_Extra_Live_TV/tracks-v1a1/mono.m3u8?active=337d183f33d20f0029b3a4cbb9d672e57e33dec9547f515dc2799699ea405691&googlekey=ff95ddbacfce7d12c4978a2ae716a297555a74aa90d54fa29be7a90a02b63a6d&keyhash=337d183f33d20f0029b3a4cbb9d672e57e33dec9547f515dc2799699ea405691
 
 
 
@@ -155,6 +155,10 @@ https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_1/tracks-v1a1/mono.m3u8?go
 
 
 
+
+EXTINF:-1 Sky Sports
+
+https://rr2---sn-npoe23nsr.creativehub.sbs/Sky_Sports_Cricket_Live_TV/tracks-v1a1/mono.m3u8?active=337d183f33d20f0029b3a4cbb9d672e57e33dec9547f515dc2799699ea405691&googlekey=d194768bac59e742d7199a7f1bebc664402810da120c1996afac9453bfc465df&keyhash=337d183f33d20f0029b3a4cbb9d672e57e33dec9547f515dc2799699ea405691
 
 
 
