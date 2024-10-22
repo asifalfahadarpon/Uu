@@ -1,37 +1,41 @@
 #EXTM3U
-#EXTINF:-1 ,Sport 18 (FTP)
+#EXTINF:-1 Sport 18 (FTP)
 http://172.16.29.242:8080/hls/sports18.m3u8
 
-#EXTINF:-1 ,Star Jalsha(FTP)
+#EXTINF:-1 Star Jalsha(FTP)
 http://172.16.29.242:8080/hls/sjolshahd.m3u8
 
 
-#EXTINF:-1 ,Starsport1 (FTP)
+#EXTINF:-1 Starsport1 (FTP)
 http://172.16.29.242:8080/hls/ssports1hd.m3u8
 
 
 
-#EXTINF:-1 ,Starsport2 (FTP)
+#EXTINF:-1 Starsport2 (FTP)
 http://172.16.29.242:8080/hls/ssports2hd.m3u8
 
-#EXTINF:-1 ,Starsport2
+#EXTINF:-1 Starsport2
 https://hex-op.tiiny.io/crichd.php?id=skyscric
 
 
-#EXTINF:-1 , Fan Code (Live)
-https://a39aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/l8j2xgwt32/out/v1/fe72171ab2684ab8b9ee3e2ffcc9cff2/cenc_audio_8_0_22408811.mp4?m=1684490437
+#EXTINF:-1 Toffee Highlights 
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sports_highlights_576/sports_highlights_576.m3u8?bitrate=1000000&channel=sports_highlights_576&gp_id=
 
 
 
-#EXTINF:-1 , SonyTen1 (FTP)
+
+
+
+
+#EXTINF:-1  SonyTen1 (FTP)
 http://172.16.29.242:8080/hls/sonyten1.m3u8
 
 
-#EXTINF:-1 , SonyTen2 (FTP)
+#EXTINF:-1  SonyTen2 (FTP)
 http://172.16.29.242:8080/hls/sonyten2.m3u8
 
 
-#EXTINF:-1 , Bein2 (FTP)
+#EXTINF:-1  Bein2 (FTP)
 http://172.16.29.242:8080/hls/bein2.m3u8
 
 
@@ -39,72 +43,84 @@ http://172.16.29.242:8080/hls/bein2.m3u8
 
 
 
-#EXTINF:-1 ,Astro Cricket
+#EXTINF:-1 Astro Cricket
 https://criccoder.pages.dev/astro.m3u8
 
 
-#EXTINF:-1 ,A Sports
+#EXTINF:-1 A Sports
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
-#EXTINF:-1 ,Star Sports 1 HD
+#EXTINF:-1 Star Sports 1 HD
 http://103.124.251.164:28015/play/a02w/index.m3u8
 
-#EXTINF:-1 ,Star Sports 1
+#EXTINF:-1 Star Sports 1
 http://103.124.251.164:28015/play/a022/index.m3u8
 
 
-#EXTINF:-1 ,Star Sports 1 HD Hindi
+#EXTINF:-1 Star Sports 1 HD Hindi
 http://41.205.93.154/STARSPORTS1/index.m3u8
 
 
-#EXTINF:-1 ,Star Sports 1 HD Hindi
+#EXTINF:-1 Star Sports 1 HD Hindi
 https://test-tan-iota-90.vercel.app/live/bdix/app/StarSports1Hindi.m3u8
 
 
-#EXTINF:-1 ,Star Sports 2
+#EXTINF:-1 Star Sports 2
 http://103.124.251.164:28015/play/a03b/index.m3u8
 
 
-#EXTINF:-1 ,Star Sports Select 1 HD
+#EXTINF:-1 Star Sports Select 1 HD
 http://103.124.251.164:28015/play/a03i/index.m3u8
-
-
-#EXTINF:-1 ,Star Sports Select 2 HD
-http://103.124.251.164:28015/play/a02x/index.m3u8
-
-
-#EXTINF:-1 ,Geo Sports
-http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
-
-
-#EXTINF:-1 ,PTV Sports
-http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
-
-
-#EXTINF:-1 ,Ten Sports HD
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-
-
-
-#EXTINF:-1 , T Sport
-https://cdn.livestreambd.com/TSports/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1 ,  Willow Extra
-https://hex-op.tiiny.io/crichd.php?id=willowextra
 
 EXTINF:-1 ,  Super Sports Crickrt
 https://hex-op.tiiny.io/crichd.php?id=supercricket
 
 
-EXTINF:-1 ,  Willow
-https://hex-op.tiiny.io/crichd.php?id=willowusa
+#EXTINF:-1 Star Sports Select 2 HD
+http://103.124.251.164:28015/play/a02x/index.m3u8
 
+
+#EXTINF:-1 Geo Sports
+http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
 
 
 EXTINF:-1 ,  TNT Sports 2
 https://hex-op.tiiny.io/crichd.php?id=bbtsp2
+
+
+
+#EXTINF:-1 PTV Sports
+http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+
+EXTINF:-1 ,  Willow
+https://hex-op.tiiny.io/crichd.php?id=willowusa
+
+
+#EXTINF:-1 Ten Sports HD
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+
+
+
+#EXTINF:-1 T Sport
+https://cdn.livestreambd.com/TSports/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 , Willow Extra
+https://hex-op.tiiny.io/crichd.php?id=willowextra
+
+
+
+
+
+
+#EXTINF Sports 18  HD           
+http://ip.msna.pk/pakiptv/pakiptv/11682.ts
+
+
+
+
+
 
 
 
