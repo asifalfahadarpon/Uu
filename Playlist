@@ -48,13 +48,6 @@ https://criccoder.pages.dev/astro.m3u8
 
 
 
-EXTINF:-1   Fancode 
-https://video-weaver.arn04.hls.live-video.net/v1/playlist/CsEFHJflfC8IAtAe4FDURyCTtxZZdkxrfnnTK1f6XZFUkneeS6lwDVH07DPMOMnDHsAbucQ53MI4W_CDV_znYs2iZF9BDpUiiFwpYEz3XV-femlB8P_qf1mpABfiJt2YhH-KE1czZsfS1j0FwN2X8UZ69qDJukpPb86KxXycl4nv94g3dE9OvBN0cgcnS5R8bQElvux3qM1ahTDDQtClWkpKfUihguF4AU0MEUnIE3ze76m4j5G8kvqRaEgYZdl9aBKehqdcXnFRxFMhARAQwxdhAsWeqyElHf-cNjQIxPybWPExyKaMCdmZ7ty_oM0KRHBHBYa851HuWsX4htus-JtgBccurQig3S6E_WxPU1Ppapvi4uzgt6y_wTfZzmL20u-T505O7Ki5bNjesa4-ZYR5kXq4RQsPMGHDnqpyIryxxdxUb8V6YJEI4PQTOLOWJECc1VQqAW7fMuiR65obmnYr5tLTo5pUVUgGBpIfHG8cp59AXoy5TlH1KZRK9FierVdCpjPCn5tGY6YjctmRk9LLgp_tc157Q6Di3Lb1JuhxgGFRC06nAsSv-eVAPWo6_6RTNlPvdYQAqn3dWRzpR_173ni6x9dPMr4C7FE1u5ImVnsHpP6b9cGPAf2yfnZ_fPHEztoy5oE9MjcN0c_q5flWQubwbJCdH_dkuuLL-rjkf4soDwyR9U6PZqeeCaFclIokwbrIjQ7CsUBcyIHFsdYi5Sx4laaVa6Ly5JFmI8-hsc05ViwelT5YEhkl2l_N_3kCL_mtfy7RqedrIqRmdFqqkJmQlKPOjPKBVDyPqVkg-vQd5QD-yZR-7OBjT5cjCVvmkCWsTxjYyCa-W9HS4iQ6HjhLxwpKnYYzQtJ1SkfmivSjvE_OJvummxEDj0j9ssqIfq0j358bHomIgG5hU7-i2R-MPhFE7SuW-HnrQd4Y3xSMGgx5DPD2AGkx2DrxEycgASoJZXUtd2VzdC0yMNcK.m3u8
-
-
-
-
-
 #EXTINF:-1 A Sports
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
@@ -94,15 +87,11 @@ http://103.124.251.164:28015/play/a03b/index.m3u8
 http://103.124.251.164:28015/play/a03i/index.m3u8
 
 #EXTINF:-1 ,  Super Sports Crickrt
-https://rr2---sn-npoe23nsr.creativehub.sbs/SuperSport_Cricket_Live_TV/tracks-v1a1/mono.m3u8?active=337d183f33d20f0029b3a4cbb9d672e57e33dec9547f515dc2799699ea405691&googlekey=03aaebfd545233646a6d07ea70d446b96abb3b1f7c9c2afb5d9fb71b9fe7e81a&keyhash=337d183f33d20f0029b3a4cbb9d672e57e33dec9547f515dc2799699ea405691
 
+https://muc2.mylife1.top:8088/live/webcrict10/playlist.m3u8?vidictid=200188496482&id=113947&pk=8cb6928fc6eb58b64e5929135c817fee0ee0596bc1d785b55e51b84cb519fc8aa4f419c95a92e41a5636eee415b53d7e7ee450d8b849ef32974994379d521a6d
 
 #EXTINF:-1 Star Sports Select 2 HD
 http://103.124.251.164:28015/play/a02x/index.m3u8
-
-
-#EXTINF:-1  TNT Sport 3
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/dfca31f7-9f32-405d-96f8-37cae750c311/2.m3u8
 
 
 
@@ -138,8 +127,7 @@ http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 
 
 EXTINF:-1 ,  Willow
-https://rr2---sn-npoe23nsr.creativehub.sbs/Willow_Cricket_Live_TV/tracks-v1a1/mono.m3u8?active=337d183f33d20f0029b3a4cbb9d672e57e33dec9547f515dc2799699ea405691&googlekey=93fd7b4ed17ab243f4e2fa74b87a5fead110161dbf07423fc351ec353f71d62c&keyhash=337d183f33d20f0029b3a4cbb9d672e57e33dec9547f515dc2799699ea405691
-
+https://pv004.zplayer001.com:7054/hls/willowusa-16609.ts
 
 #EXTINF:-1 Ten Sports HD
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
@@ -152,9 +140,6 @@ https://cdn.livestreambd.com/TSports/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 , Willow Extra
-https://rr2---sn-npoe23nsr.creativehub.sbs/Willow_Extra_Live_TV/tracks-v1a1/mono.m3u8?active=337d183f33d20f0029b3a4cbb9d672e57e33dec9547f515dc2799699ea405691&googlekey=ff95ddbacfce7d12c4978a2ae716a297555a74aa90d54fa29be7a90a02b63a6d&keyhash=337d183f33d20f0029b3a4cbb9d672e57e33dec9547f515dc2799699ea405691
-
 
 
 
@@ -164,19 +149,6 @@ https://rr2---sn-npoe23nsr.creativehub.sbs/Willow_Extra_Live_TV/tracks-v1a1/mono
 http://ip.msna.pk/pakiptv/pakiptv/11682.ts
 
 
-
-
-=f086f6d96b93ac52cc6f03905e11964056720690117c63d45f2e84b2b24fff53&keyhash=337d183f33d20f0029b3a4cbb9d672e57e33dec9547f515dc2799699ea405691bbc696db2959fac594813d58&keyhash=5d8859c4b7d3a6d33c6adada9ffe806a84c25db0bbc696db2959fac594813d58
-
-
-
-#EXTINF:-1 ,  TNT Sports 1
-https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_1/tracks-v1a1/mono.m3u8?googlekey=337d183f33d20f0029b3a4cbb9d672e57e33dec9547f515dc2799699ea405691&keyhash=337d183f33d20f0029b3a4cbb9d672e57e33dec9547f515dc2799699ea405691f41590d30&keyhash=db4f8d16ceca51df3d36cc97a5fc8f9c5d2e74393b9d11fe7d65d75f41590d30
-
-
-
-
-2d7199a7f1bebc664402810da120c1996afac9453bfc465df&keyhash=337d183f33d20f0029b3a4cbb9d672e57e33dec9547f515dc2799699ea405691
 
 
 
