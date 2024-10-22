@@ -108,8 +108,12 @@ http://103.124.251.164:28015/play/a02x/index.m3u8
 
 
 
-#EXTINF:-1 ,  Willow
-https://pv004.zplayer001.com:7054/hls/willowusa-16609.ts
+#EXTINF:-1 ,  TNT
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd?|drmScheme=clearkey&drmLicense=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+
+
+
+
 
 #EXTINF:-1 Ten Sports HD
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
@@ -133,8 +137,8 @@ http://ip.msna.pk/pakiptv/pakiptv/11682.ts
 
 
 
-#EXTINF:-1 TNT Sport 3
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd?|drmScheme=clearkey&drmLicense=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+
+
 
 
 
