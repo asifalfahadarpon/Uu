@@ -54,8 +54,12 @@ http://103.124.251.164:28015/play/a02w/index.m3u8
 
 
 
-#EXTINF:-1 Sky Sports
-https://rr2---sn-npoe23nsr.creativehub.sbs/Sky_Sports_Cricket_Live_TV/tracks-v1a1/mono.m3u8?active=337d183f33d20f0029b3a4cbb9d672e57e33dec9547f515dc2799699ea405691&googlekey=d194768bac59e74
+#EXTINF:-1 Willow
+https://hex-op.tiiny.io/crichd.php?id=willowusa
+
+
+
+
 
 #EXTINF:-1 Star Sports 1
 http://103.124.251.164:28015/play/a022/index.m3u8
