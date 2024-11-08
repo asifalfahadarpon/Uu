@@ -18,14 +18,8 @@ http://172.16.29.242:8080/hls/ssports2hd.m3u8
 https://hex-op.tiiny.io/crichd.php?id=skyscric
 
 
-#EXTINF:-1 Toffee Highlights 
-https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sports_highlights_576/sports_highlights_576.m3u8?bitrate=1000000&channel=sports_highlights_576&gp_id=
-
-
-
-
-
-
+#EXTINF:-1 BAN VS AFG
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 
 #EXTINF:-1  SonyTen1 (FTP)
 http://172.16.29.242:8080/hls/sonyten1.m3u8
