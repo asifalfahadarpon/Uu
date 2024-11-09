@@ -319,6 +319,14 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 
 
 
+#EXTINF:-1 SKY Sport Cricket
+https://fifabd.xyz/CRIC/master.php?id=054d71bb25ea273d317844be00dec11d&e=.m3u8
+
+
+
+
+#EXTINF:-1 Fox Cricket 
+https://fifabd.xyz/CRIC/master.php?id=d38683dbc4241a88b7ff41ea19d0c283&e=.m3u8
 
 
 
@@ -326,6 +334,13 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 
 
 
+#EXTINF:-1 Star Sports #
+https://fifabd.xyz/CRIC/master.php?id=1ae062c88f455fc7cf6fec1039c2f785&e=.m3u8
+
+
+
+#EXTINF:-1 TNT Sport 1
+https://fifabd.xyz/CRIC/master.php?id=92fd996df8ee21050263d9791e184711&e=.m3u8
 
 
 
@@ -333,6 +348,7 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 
 
 
+#EXTINF:-1
 
 
 
@@ -340,9 +356,5 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 
 
 
-
-
-
-
-
+#EXTINF:-1
 
