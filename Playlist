@@ -1,9 +1,5 @@
 #EXTM3U
-
-
-
 #EXTINF:-1 BAN VS AFG
-
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 http://172.16.29.242:8080/hls/bein2.m3u8
 
