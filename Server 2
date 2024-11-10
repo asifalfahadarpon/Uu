@@ -1,0 +1,47 @@
+#EXTM3U
+
+
+
+
+#EXTINF:-1Tsports2
+http://103.175.242.10:8080/tsports2/tracks-v1a1/mono.m3u8
+#EXTINF:-1tsports
+http://103.175.242.10:8080/tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1Tsports1
+http://103.175.242.10:8080/Tsports1/tracks-v1a1/mono.m3u8
+#EXTINF:-1Gtv
+http://103.175.242.10:8080/27-Gtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1gtv2
+http://103.175.242.10:8080/gtv2/tracks-v1a1/mono.m3u8
+#EXTINF:-1skysportsfootball
+http://103.175.242.10:8080/skysportsfootball/tracks-v1a1/mono.m3u8
+#EXTINF:-1sports18
+http://103.175.242.10:8080/sports18/tracks-v1a1/mono.m3u8
+#EXTINF:-1Starsport1
+http://103.175.242.10:8080/02-Starsport1/tracks-v1a1/mono.m3u8
+#EXTINF:-1starsports2
+http://103.175.242.10:8080/starsports2-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1sonyten1
+http://103.175.242.10:8080/sonyten1/tracks-v1a1/mono.m3u8
+#EXTINF:-1sonysports2
+http://103.175.242.10:8080/54-sonysports2/tracks-v1a1/mono.m3u8
+#EXTINF:-1sonysports5
+http://103.175.242.10:8080/sonysports5/tracks-v1a1/mono.m3u8
+#EXTINF:-1Starsportselect
+http://103.175.242.10:8080/31-Starsportselect/tracks-v1a1/mono.m3u8
+#EXTINF:-1starsportsselect2
+http://103.175.242.10:8080/starsportsselect2/tracks-v1a1/mono.m3u8
+#EXTINF:-1foxcricekt
+http://103.175.242.10:8080/foxcricekt/tracks-v1/mono.m3u8
+
+#EXTINF:-1RTA SPORTS
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+#EXTINF:-1WC T20 Live 6
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/7343/index.m3u8
+#EXTINF:-1WC T20 Live 7
+http://9veyn1bt.otttv.pw/iptv/M9SZURBGLS597E/7343/index.m3u8
+
+
+
+#EXTINF:-1T-Sports Live
+https://edge4-moblive.yuppcdn.net/transsd/smil:eventtv.smil/playlist.m3u8
