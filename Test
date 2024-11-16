@@ -1,11 +1,7 @@
 #EXTM3U
-#EXTINF:-1 TNT sports 1 
+#EXTINF:-1 TNT Sport
 http://gcp-dash.ngslbs.com/TVD001/index.mpd
-#EXTINF:-1 TNT sports 2
 http://gcp-dash.ngslbs.com/TVD002/index.mpd
-#EXTINF:-1 TNT sports 3
 http://gcp-dash.ngslbs.com/TVD003/index.mpd
-#EXTINF:-1 TNT sports 4
 http://gcp-dash.ngslbs.com/TVD004/index.mpd
-#EXTINF:-1 TNT sports 5
 http://gcp-dash.ngslbs.com/TVD005/index.mpd
