@@ -39,7 +39,7 @@ http://172.16.29.34/ontest1/ontest1/461
 
 
 
-#EXTINF:-1 Sports 18 HD
+#EXTINF:-1 Sports 18 HD (Normal)
 http://172.16.29.34/ontest1/ontest1/336
 
 
@@ -166,9 +166,5 @@ http://stvlive.net:8080/skysportsfootball/tracks-v1a1/mono.m3u8
 
 
 
-
-
-
-
-#EXTINF:-1 FOX 501
-#EXTM3U #EXT-X-VERSION:3 #EXT-X-MEDIA-SEQUENCE:650 #EXT-X-ALLOW-CACHE:YES #EXT-X-TARGETDURATION:12 #EXTINF:11.200000, api.php?ts=http://212.46.43.31:8080/hls/647954c125ead83413fb49bc435974cc/167593_650.ts #EXTINF:8.960000, api.php?ts=http://212.46.43.31:8080/hls/42e7b1a1c0bb336be50e3af01db7f91f/167593_651.ts #EXTINF:11.200000, api.php?ts=http://212.46.43.31:8080/hls/df6c7c63533ebe52dbbaa0b89b687f12/167593_652.ts #EXTINF:8.960000, api.php?ts=http://212.46.43.31:8080/hls/241b81bdbd46950cbfd2fa94b21395b7/167593_653.ts #EXTINF:11.200000, api.php?ts=http://212.46.43.31:8080/hls/3b2af2ee7a661915baa4a17ebe86cffe/167593_654.ts #EXTINF:8.960000, api.php?ts=http://212.46.43.31:8080/hls/b65885a101b3cc734d9134bf71c80ae1/167593_655.ts
+#EXTINF:-1 Sports 18 FHD
+https://port.yuvraj49.xyz/jc-sports-18-hd/tracks-v1a1/mono.m3u8?token=4dv7J9pr60BQ63
