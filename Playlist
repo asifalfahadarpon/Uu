@@ -40,6 +40,11 @@ http://172.16.29.34/ontest1/ontest1/461
 
 
 
+#EXTINF:-1  T Sport 2
+http://172.16.29.3:8090/hls/tsportshd.m3u8
+
+
+
 
 #EXTINF:-1 Sports 18 HD (Normal)
 http://172.16.29.34/ontest1/ontest1/336
@@ -102,6 +107,20 @@ http://172.16.29.2:8080/hls/laligahd.m3u8
 #EXTINF:-1 TNT 1
 http://172.16.29.34/ontest1/ontest1/366
 
+
+
+
+
+#EXTINF:-1 TNT 2
+http://172.16.29.3:8090/hls/tntsports2hd.m3u8
+
+
+
+
+
+
+#EXTINF:-1 TNT 4
+http://172.16.29.3:8090/hls/tensports4hd.m3u8
 
 
 #EXTINF:-1 TNT 3
