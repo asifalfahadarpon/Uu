@@ -1,6 +1,5 @@
 #EXTM3U
 
 
-
-#EXTINF:-1 SKY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58N2t98/channel.png" group-title="@freeiptv25",SKY
 http://gcp-dash.ngslbs.com/TVD024/index.mpd
