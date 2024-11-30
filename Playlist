@@ -26,9 +26,8 @@ http://172.16.29.34/ontest1/ontest1/413
 
 
 
-#EXTINF:-1 Sky Sports Cricket
-http://cdn.troya.one:80/ch235/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKMm9dsJ-dAThz_DhR2a0u1F-Q0mb9JeyoVH24DqhaGU
-
+#EXTINF:-1 Sky Sports Cricket(default)
+http://gcp-dash.ngslbs.com/TVD024/index.mpd
 
 
 
@@ -48,6 +47,21 @@ http://172.16.29.3:8090/hls/tsportshd.m3u8
 
 #EXTINF:-1 Sports 18 HD (Normal)
 http://172.16.29.34/ontest1/ontest1/336
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1  SONY LIV (ASIA CUP U19)
+https://pubads.g.doubleclick.net/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8
+
+
+
 
 
 
