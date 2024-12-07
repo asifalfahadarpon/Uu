@@ -146,6 +146,14 @@ http://172.16.29.3:8090/hls/tntsports2hd.m3u8
 
 
 
+
+#EXTINF:-1 TNT 2 (default)
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?|drmScheme=clearkey&drmLicense=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+
+
+
+
+
 #EXTINF:-1 TNT 4
 http://172.16.29.3:8090/hls/tensports4hd.m3u8
 
