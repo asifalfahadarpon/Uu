@@ -1,5 +1,72 @@
+
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/58N2t98/channel.png" group-title="@freeiptv25",SKY
-http://gcp-dash.ngslbs.com/TVD024/index.mpd
+
+#EXTINF:-1  ASTRO CRICKET 
+http://128.0.104.56:80/live.ts?channelId=26034&uid=7339&deviceMac=00:1A:79:B1:85:69
+
+
+#EXTINF:-1 FOX CRICKET 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/1856.m3u8
+
+
+
+
+#EXTINF:-1 WILLOW XTRA
+http://supersonictv.live:8080/live/686554/799757/40437.m3u8
+
+
+
+
+
+#EXTINF:-1 TNT SPORT 1
+http://109.61.81.43:43756/559/tracks-v1a1/mono.m3u8?token=4444
+
+
+
+
+
+
+#EXTINF:-1 SUPER SPORTS CRICKET 
+http://7453991.lbss27.xyz/hls/8b6eb8ec1098c7ae2d08d6107b602293/191776_217.ts
+
+
+#EXTINF:-1 SKY SPORTS CRICKET 
+http://z88.ubtvfans.com/live/rx3/2786/7fcbe456c092eb9592d19e8d272e9206/index1734435223.ts
+
+
+
+
+
+
+#EXTINF:-1 WILLOW CRICKET 
+http://7453991.lbss15.xyz/hls/74711a5a2bbd4a74461029e62a21170e/175793_58.ts
+
+
+
+
+
+
+
+
+#EXTINF:-1 FOX CRICKET 
+http://128.0.104.56/live.ts?channelId=36128&uid=3453&deviceMac=00:1A:79:11:10:28
+
+
+
+
+
+
+
+
+#EXTINF:-1 SPORTS  18 *
+https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/IDCDemo_IPL23_Sports18_MOB-audio_98838_eng=98800-video=3724000-433611204.ts
+
+
+
+#EXTINF:-1 STAR SPORTS 1
+http://41.205.93.154/STARSPORTS1/tracks-v1a1/2024/12/17/14/19/07-10000.ts
+
+
+
