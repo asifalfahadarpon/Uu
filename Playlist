@@ -2,6 +2,13 @@
 
 #EXTM3U
 
+#EXTINF:-1 T SPORTS 
+http://172.16.29.2:8090/hls/tsportshd-501.ts
+
+
+
+
+
 
 
 #EXTINF:-1 Astro Cricket
@@ -21,7 +28,7 @@ http://172.16.29.34/ontest1/ontest1/282
 http://xtv.ooo:8080/live/Irfan99383/8888/167593.ts
 
 #EXTINF:-1  SKY SPORTS CRICKET
-http://xtv.ooo:8080/live/Irfan99383/8888/167594.ts
+http://172.16.29.2:8090/hls/skysportscrickethd-14005.ts
 
 
 
