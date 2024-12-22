@@ -3,7 +3,7 @@
 #EXTM3U
 
 #EXTINF:-1 T SPORTS 
-http://172.16.29.2:8090/hls/tsportshd-501.ts
+http://172.16.29.2:8090/hls/tsportshd.m3u8
 
 
 
@@ -28,7 +28,7 @@ http://172.16.29.34/ontest1/ontest1/282
 http://xtv.ooo:8080/live/Irfan99383/8888/167593.ts
 
 #EXTINF:-1  SKY SPORTS CRICKET
-http://172.16.29.2:8090/hls/skysportscrickethd-14005.ts
+http://172.16.29.2:8090/hls/skysportscrickethd.m3u8
 
 
 
@@ -46,8 +46,8 @@ http://172.16.29.34/ontest1/ontest1/413
 
 
 
-#EXTINF:-1 Sky Sports Cricket(default)
-http://gcp-dash.ngslbs.com/TVD024/index.mpd
+#EXTINF:-1 PTV SPORTS
+http://172.16.29.2:8090/hls/ptvsportshd.m3u8
 
 
 
@@ -166,7 +166,7 @@ http://172.16.29.3:8090/hls/tensports4hd.m3u8
 
 
 #EXTINF:-1 TNT 3
-http://109.61.81.147:2080/cdn2/295/video.m3u8?token=4444
+http://172.16.29.2:8090/hls/tensports3hd.m3u8
 
 
 
