@@ -53,14 +53,13 @@ http://172.16.29.2:8090/hls/ptvsportshd.m3u8
 
 
 
-#EXTINF:-1  T Sport
-http://172.16.29.34/ontest1/ontest1/461
-
+#EXTINF:-1  T Sport (FHD)
+http://172.16.29.34/1234/1234/461
 
 
 
 #EXTINF:-1  T Sport 2
-http://172.16.29.3:8090/hls/tsportshd.m3u8
+http://172.16.29.34/1234/1234/181
 
 
 
