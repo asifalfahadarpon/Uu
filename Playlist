@@ -309,10 +309,33 @@ https://iptvcable.netlify.app/Altogether-007/StarSportsSel1.m3u8
 
 
 
-#EXTINF:-1 Pushpa 2
-http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Pushpa%202%20The%20Rule%202024%20Hindi%20Telugu%20720p%20PreDvd%20x264%20%5BDDN%5D/Pushpa%202%20The%20Rule%202024%20Hindi%20720p%20PreDvd%20x264%20%5BDDN%5D.mp4
 
 
+
+
+[
+  {
+    "name": "LIVE | BPL 2025",
+    "link": "https://live-cdn.tsports.com/live-02/index.m3u8",
+    "logo": "https://image.tsports.com/images/mobile_logo/1735207297-BPL-Live-Thum.jpg",
+    "origin": "https://live-cdn.tsports.com",
+    "referrer": "https://live-cdn.tsports.com",
+    "userAgent": "Tsports (Linux; Telegram:https://t.me/J_9X_H_9X_N) Github:https://github.com/byte-capsule AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1735594722:KeyName=tsports-ed25519-01:Signature=dl5WbufDs7NLBYnCMLdUK1bFqXLR6V00g49jcvVnZXsxfZAEJtonT-Xf9-KQNvQo7BmlWYU_zaBTfJ58cQW2AA",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "T Sports Live 01",
+    "link": "https://live-cdn.tsports.com/live-01/index.m3u8",
+    "logo": "https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg",
+    "origin": "https://live-cdn.tsports.com",
+    "referrer": "https://live-cdn.tsports.com",
+    "userAgent": "Tsports (Linux; Telegram:https://t.me/J_9X_H_9X_N) Github:https://github.com/byte-capsule AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1735594722:KeyName=tsports-ed25519-01:Signature=dl5WbufDs7NLBYnCMLdUK1bFqXLR6V00g49jcvVnZXsxfZAEJtonT-Xf9-KQNvQo7BmlWYU_zaBTfJ58cQW2AA",
+    "drmScheme": "",
+    "drmLicense": ""
+  }
 
 
 
