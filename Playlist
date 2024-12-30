@@ -2,7 +2,7 @@
 
 #EXTM3U
 
-#EXTINF:-1 T SPORTS 
+#EXTINF:-1 T SPORTS (3)
 http://172.16.29.2:8090/hls/tsportshd.m3u8
 
 
