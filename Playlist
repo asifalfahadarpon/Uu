@@ -42,8 +42,8 @@ http://172.16.29.2:8090/hls/skysportscrickethd.m3u8
 
 
 
-#EXTINF:-1  BPL LIVE 1
-https://live-cdn.tsports.com/live-02/index.m3u8?|cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1735594722:KeyName=tsports-ed25519-01:Signature=dl5WbufDs7NLBYnCMLdUK1bFqXLR6V00g49jcvVnZXsxfZAEJtonT-Xf9-KQNvQo7BmlWYU_zaBTfJ58cQW2AA
+#EXTINF:-1  Barca Vs Madrid
+https://shls-masr2-enc.edgenextcdn.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 
 
 
@@ -85,10 +85,9 @@ http://172.16.29.34/ontest1/ontest1/336
 
 
 
-#EXTINF:-1  STAR SPORTS (HD)
-https://vkvsd63.okcdn.ru/cmaf/7479532849895/sig/_dFLBN-na4E/srcIp/65.0.128.140/urls/185.226.52.66/expires/1734994686040/clientType/13/srcAg/CHROME/fromCache/1/mid/9171296398311/id/7479532849895/get/dash_9171296398311.cGxuCiq8K1E.mpd
+#EXTINF:-1  Barca vs Madrid (2)
 
-
+https://1111.koora-live.video/hls/1/stream.m3u8
 
 
 
